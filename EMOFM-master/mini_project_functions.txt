@@ -1,0 +1,91 @@
+Adjreverse                    	12
+
+adjust				80
+
+calculate_EQ			98
+
+calculate_EQ1			73  //
+
+Calculate_NMI			33
+
+community_score			30
+
+compute_objective		32
+
+DDijkstra			44                        //
+
+distfcm1			8   //
+
+DQ				28
+
+duzhongxin			36
+
+duzhongxin2			63                        //
+
+EAbinary			39
+
+extendNMI			81
+
+F_distance			19
+
+F_mating			34
+
+F_NDSort			52
+
+FCMclust			74    //
+
+FCMdd				62  // 
+
+FCMdd_Init			26   //
+
+FinalFunc			76
+
+FinalFunc_withouNMI		57   //
+
+FuncNMI				64   //	
+
+FunValue1			74
+
+gen_orthogonal_centers		29   //
+
+graphMap			28   //
+
+Initial_Population		19
+
+LFR_community2community		33
+
+LocalKmeans			107
+
+Modularity			20  //
+
+Myfunction1			21   //
+
+Myfunction_similarity(		6
+
+normalize_1st			15   //
+
+NSGA2				53
+
+P_draw				62  //
+
+P_evaluate			201  // 
+ 
+P_generator			77
+
+P_objective			1159   //
+
+P_output			58     //
+
+P_settings			190   //
+ 
+P_sort				42
+
+pajek2adj			24    //
+
+PLOTFUNCTION			21     //
+
+savedata1			14
+
+Tosim_matrix			17
+
+Tosim_matrix2			18                   //
